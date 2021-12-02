@@ -749,11 +749,11 @@ namespace Sumator_Subtraktor___Praca_Dyplomowa
             Pen Line50 = new Pen(Color.Black);
             if (FA2CI1.Checked == true)
             {
-                Pen(e, Line50, ColorOn, 1350, 360, 1600, 360);
+                Pen(e, Line50, ColorOn, 1320, 360, 1450, 360);
             }
             else
             {
-                Pen(e, Line50, ColorOff, 1350, 360, 1400, 360);
+                Pen(e, Line50, ColorOff, 1320, 360, 1450, 360);
             }
 
             //Ci + 1 -> Ci  #3
@@ -2084,3 +2084,7 @@ namespace Sumator_Subtraktor___Praca_Dyplomowa
         }
     }
 }
+
+
+
+

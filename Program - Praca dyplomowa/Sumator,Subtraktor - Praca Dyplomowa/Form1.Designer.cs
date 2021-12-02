@@ -1161,7 +1161,7 @@ namespace Sumator_Subtraktor___Praca_Dyplomowa
             // label39
             // 
             this.label39.AutoSize = true;
-            this.label39.Location = new System.Drawing.Point(1381, 353);
+            this.label39.Location = new System.Drawing.Point(1382, 353);
             this.label39.Name = "label39";
             this.label39.Size = new System.Drawing.Size(18, 15);
             this.label39.TabIndex = 99;
