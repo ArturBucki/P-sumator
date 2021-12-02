@@ -1,1 +1,1 @@
-# P-sumator
+# Sumator-Subtraktor
