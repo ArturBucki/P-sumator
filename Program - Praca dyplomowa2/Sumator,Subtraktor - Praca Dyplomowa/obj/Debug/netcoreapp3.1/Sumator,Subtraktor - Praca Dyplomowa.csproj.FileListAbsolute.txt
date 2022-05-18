@@ -1,0 +1,16 @@
+C:\Users\Artur\Desktop\Praca dyplomowa\Program - Praca dyplomowa\Sumator,Subtraktor - Praca Dyplomowa\bin\Debug\netcoreapp3.1\Sumator,Subtraktor - Praca Dyplomowa.exe
+C:\Users\Artur\Desktop\Praca dyplomowa\Program - Praca dyplomowa\Sumator,Subtraktor - Praca Dyplomowa\bin\Debug\netcoreapp3.1\Sumator,Subtraktor - Praca Dyplomowa.deps.json
+C:\Users\Artur\Desktop\Praca dyplomowa\Program - Praca dyplomowa\Sumator,Subtraktor - Praca Dyplomowa\bin\Debug\netcoreapp3.1\Sumator,Subtraktor - Praca Dyplomowa.runtimeconfig.json
+C:\Users\Artur\Desktop\Praca dyplomowa\Program - Praca dyplomowa\Sumator,Subtraktor - Praca Dyplomowa\bin\Debug\netcoreapp3.1\Sumator,Subtraktor - Praca Dyplomowa.runtimeconfig.dev.json
+C:\Users\Artur\Desktop\Praca dyplomowa\Program - Praca dyplomowa\Sumator,Subtraktor - Praca Dyplomowa\bin\Debug\netcoreapp3.1\Sumator,Subtraktor - Praca Dyplomowa.dll
+C:\Users\Artur\Desktop\Praca dyplomowa\Program - Praca dyplomowa\Sumator,Subtraktor - Praca Dyplomowa\bin\Debug\netcoreapp3.1\Sumator,Subtraktor - Praca Dyplomowa.pdb
+C:\Users\Artur\Desktop\Praca dyplomowa\Program - Praca dyplomowa\Sumator,Subtraktor - Praca Dyplomowa\obj\Debug\netcoreapp3.1\Sumator,Subtraktor - Praca Dyplomowa.csproj.GenerateResource.cache
+C:\Users\Artur\Desktop\Praca dyplomowa\Program - Praca dyplomowa\Sumator,Subtraktor - Praca Dyplomowa\obj\Debug\netcoreapp3.1\Sumator,Subtraktor - Praca Dyplomowa.AssemblyInfoInputs.cache
+C:\Users\Artur\Desktop\Praca dyplomowa\Program - Praca dyplomowa\Sumator,Subtraktor - Praca Dyplomowa\obj\Debug\netcoreapp3.1\Sumator,Subtraktor - Praca Dyplomowa.AssemblyInfo.cs
+C:\Users\Artur\Desktop\Praca dyplomowa\Program - Praca dyplomowa\Sumator,Subtraktor - Praca Dyplomowa\obj\Debug\netcoreapp3.1\Sumator,Subtraktor - Praca Dyplomowa.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\Praca dyplomowa\Program - Praca dyplomowa\Sumator,Subtraktor - Praca Dyplomowa\obj\Debug\netcoreapp3.1\Sumator,Subtraktor - Praca Dyplomowa.dll
+C:\Users\Artur\Desktop\Praca dyplomowa\Program - Praca dyplomowa\Sumator,Subtraktor - Praca Dyplomowa\obj\Debug\netcoreapp3.1\Sumator,Subtraktor - Praca Dyplomowa.pdb
+C:\Users\Artur\Desktop\Praca dyplomowa\Program - Praca dyplomowa\Sumator,Subtraktor - Praca Dyplomowa\obj\Debug\netcoreapp3.1\Sumator,Subtraktor - Praca Dyplomowa.genruntimeconfig.cache
+C:\Users\Artur\Desktop\Praca dyplomowa\Program - Praca dyplomowa\Sumator,Subtraktor - Praca Dyplomowa\obj\Debug\netcoreapp3.1\Sumator_Subtraktor___Praca_Dyplomowa.Properties.Resources.resources
+C:\Users\Artur\Desktop\Praca dyplomowa\Program - Praca dyplomowa\Sumator,Subtraktor - Praca Dyplomowa\obj\Debug\netcoreapp3.1\Sumator_Subtraktor___Praca_Dyplomowa.SumatorSubtraktor.resources
+C:\Users\Artur\Desktop\Praca dyplomowa\Program - Praca dyplomowa\Sumator,Subtraktor - Praca Dyplomowa\obj\Debug\netcoreapp3.1\Sumator,Subtraktor - Praca Dyplomowa.csprojAssemblyReference.cache
